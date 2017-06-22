@@ -1,4 +1,4 @@
-# COGNITIVE WORKSHOP June 29th 
+# Cognitive Workshop June 29th 
 
 * 8:30 - 9:00 - Breakfast
 
