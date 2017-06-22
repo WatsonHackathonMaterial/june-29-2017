@@ -1,4 +1,4 @@
-# Cognitive Workshop June 29th 
+## Cognitive Workshop June 29th 
 
 * 8:30 - 9:00 - Breakfast
 
@@ -28,7 +28,7 @@
 * 11:55 - 12:15 
   * Wrap Up and Final Q&A	
 
-# Extra FYI Important Links - sample code and tutorials
+## Extra FYI Important Links - sample code and tutorials
 * https://github.com/IBM-Bluemix
 * https://github.com/watson-developer-cloud
 * https://medium.com/ibm-watson-developer-cloud
